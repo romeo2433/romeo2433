@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Irivelo Mahefa Romeo.
 
-<!--
-**romeo2433/romeo2433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer, driven by the desire to **solve real-world problems** through logical, efficient, and sustainable solutions.
 
-Here are some ideas to get you started:
+✨ I enjoy understanding needs, thinking deeply, and transforming ideas into real, functional projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Open to collaborations, exchanging ideas, and new challenges.
+
+📫 **To contact me**:
+- ✉️ Email: [](romeomahefaromeo@gmail.com)
+- 🔗 LinkedIn: [](https://linkedin.com/in/romeo-mahefaromeo-3b4663362)
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
