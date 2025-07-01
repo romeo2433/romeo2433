@@ -15,8 +15,15 @@ I'm a passionate full-stack developer, driven by the desire to **solve real-worl
 
 
 
-[]([https://img.shields.io/badge/React-blue?logo=react&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon-latest/devicon.min.css" ))
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+##🚀 Technologies I use
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+</p>
 
 
 ---
