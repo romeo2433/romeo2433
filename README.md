@@ -10,6 +10,15 @@ I'm a passionate full-stack developer, driven by the desire to **solve real-worl
 - ✉️ Email: [(romeomahefaromeo@gmail.com](romeomahefaromeo@gmail.com)
 - 🔗 LinkedIn: [https://linkedin.com/in/romeo-mahefaromeo-3b4663362](https://linkedin.com/in/romeo-mahefaromeo-3b4663362)
 
+
+
+
+
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+
 ---
 
 Thank you for visiting my GitHub profile! 🚀
