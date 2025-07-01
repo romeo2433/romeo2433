@@ -24,8 +24,8 @@ I'm a passionate full-stack developer, driven by the desire to **solve real-worl
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon-latest/devicon.min.css"" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
