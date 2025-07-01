@@ -7,8 +7,8 @@ I'm a passionate full-stack developer, driven by the desire to **solve real-worl
 🤝 Open to collaborations, exchanging ideas, and new challenges.
 
 📫 **To contact me**:
-- ✉️ Email: [](romeomahefaromeo@gmail.com)
-- 🔗 LinkedIn: [](https://linkedin.com/in/romeo-mahefaromeo-3b4663362)
+- ✉️ Email: [(romeomahefaromeo@gmail.com](romeomahefaromeo@gmail.com)
+- 🔗 LinkedIn: [https://linkedin.com/in/romeo-mahefaromeo-3b4663362](https://linkedin.com/in/romeo-mahefaromeo-3b4663362)
 
 ---
 
