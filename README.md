@@ -14,7 +14,7 @@ I'm a passionate full-stack developer, driven by the desire to **solve real-worl
 
 
 
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
